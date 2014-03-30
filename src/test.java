@@ -9,5 +9,11 @@ public class test {
 		// windows comment
 		System.out.println("this windows 1");
 		System.out.println("window 2");
+
+		feature1();
+	}
+
+	static void feature1() {
 	}
 }
+
