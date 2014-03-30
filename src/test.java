@@ -7,5 +7,11 @@ public class test {
 		System.out.println("second line");
 		System.out.println("third line");
 		// windows comment
+
+		feature1();
+	}
+
+	static void feature1() {
 	}
 }
+
