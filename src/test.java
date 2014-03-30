@@ -8,5 +8,6 @@ public class test {
 		System.out.println("third line");
 		// windows comment
 		System.out.println("this windows 1");
+		System.out.println("window 2");
 	}
 }
