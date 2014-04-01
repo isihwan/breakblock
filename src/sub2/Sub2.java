@@ -5,6 +5,7 @@ public class Sub2 {
 		print();
 		work();
 		work3();
+		work4();
 	}
 
 	private void print() {
@@ -15,6 +16,9 @@ public class Sub2 {
 	}
 
 	void work3() {
+	}
+
+	void work4() {
 	}
 }
 
