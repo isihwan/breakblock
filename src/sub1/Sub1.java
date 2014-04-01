@@ -4,5 +4,5 @@ public class Sub1 {
 	// power of git
 	System.out.println("This is sub1");
 	// edit
-	String edit = "Eidt line";//some error?
+	String edit = "Edit line"; // fix by linux
 }
