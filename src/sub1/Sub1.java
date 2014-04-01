@@ -5,4 +5,5 @@ public class Sub1 {
 	System.out.println("This is sub1");
 	// edit
 	String edit = "Edit line"; // fix by linux
+	// thanks linux
 }
