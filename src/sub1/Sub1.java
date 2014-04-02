@@ -1,5 +1,6 @@
 package package sihwan.test.sub1
 
+// thanks linux
 public class Sub1 {
 	public Sub1() {
 		// power of git
