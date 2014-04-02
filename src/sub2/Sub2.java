@@ -6,6 +6,7 @@ public class Sub2 {
 		work();
 		work3();
 		work4();
+		work5();
 	}
 
 	private void print() {

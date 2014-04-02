@@ -4,7 +4,7 @@ public class Sub3 {
 	}
 
 	public void hello() {
-		System.out.println("helo");
+		System.out.println("hello"); //hotfix-sub3-hello
 	}
 }
 
