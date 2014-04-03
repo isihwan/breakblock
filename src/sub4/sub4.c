@@ -1,4 +1,4 @@
 int sub4(int i) {
-	return i*5;
+	return i*6;
 }
 
